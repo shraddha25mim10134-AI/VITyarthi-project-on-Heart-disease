@@ -1,0 +1,18 @@
+TECHNOLOGIES AND TOOLS USED
+1.	Programming language:
+Python 3.x – core language for model development and data handling.
+2.	Libraries and frameworks 
+a.	Pandas – data loading, cleaning, manipulation
+b.	Scikit learn – machine learning models, preprocessing pipelines, evaluation
+c.	NumPy – numerical computations and array operations
+d.	Matplotlib – performance and feature importance visualization
+3.	Development environment 
+Google colab – code execution and interactive model development.
+4.	Version control and deployment 
+Git and GitHub – source code management, documentation, and submission
+5.	Dataset source
+Kaggle datasets – heart disease dataset (csv) used for training and testing the model.
+STEPS TO INSTALL AND RUN THE PROJECT.
+Step 1 – downloading the heart disease dataset from Kaggle datasets and uploading it to drive.
+Step 2 – mounting the drive in google colab.
+
